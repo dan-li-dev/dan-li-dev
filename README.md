@@ -5,6 +5,67 @@ A passionate full stack developer
 
 I'm a Senior Technical Consultant with a strong background in front-end development, specializing in JavaScript, AngularJS, and ServiceNow. I have a deep passion for building scalable, high-performance applications that enhance user experience. With expertise in front-end architecture, I have worked on projects that significantly improved efficiency and customer satisfaction. Beyond development, I enjoy mentoring junior developers and continuously expanding my knowledge in modern web technologies.
 
+### Hi there! 👋 I'm Daniel Li
+
+[![LinkedIn Daniel Li](https://img.shields.io/badge/dan-li-linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/dan-li/)
+[![Resume Daniel Li](https://img.shields.io/badge/resume-download-green?style=for-the-badge)](https://your-resume-link.com)
+[![dan-li-dev Portfolio](https://img.shields.io/badge/Portfolio-site-orange?style=for-the-badge)](https://dan-li-dev.github.io)
+
+Welcome to my GitHub! I'm Daniel, a front-end engineer passionate about building modern web applications using **React**, **Redux**, **Angular**, and **TypeScript**. I'm currently expanding my skills in **AI/ML** and actively working on projects that bring together user experience, performance, and scalability.
+
+Having lived and worked internationally, I bring a flexible mindset and collaborative approach to development. I’m organized, curious, and always ready to learn something new.
+
+<table width="100%">
+    <tr>
+        <th>⚡ Proficient in</th>
+        <th>👌 Previously used</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>JavaScript / TypeScript</li>
+                <li>React / Redux / Next.js</li>
+                <li>Angular</li>
+                <li>Node.js / Express</li>
+                <li>Payload CMS</li>
+                <li>Tailwind CSS / SCSS</li>
+                <li>Git / GitHub Actions / Vercel</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Python</li>
+                <li>Java</li>
+                <li>ServiceNow</li>
+                <li>MongoDB / PostgreSQL</li>
+                <li>Jest / Playwright</li>
+                <li>Docker</li>
+                <li>Azure DevOps</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+<h3>🔭 I’m currently working on</h3>
+
+1. **AI Recipe Generator**: A full-stack project using Payload CMS, React (TS), and Python to generate smart meal ideas.
+2. **Portfolio Revamp**: Migrating my static portfolio to a headless CMS with real-time editing and dynamic routing using Payload + Next.js.
+
+#### 👨‍💻 Open Source Contribution
+
+- Contributed enhancements to documentation and tooling in [payloadcms/payload](https://github.com/payloadcms/payload)
+
+<br />
+
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dan-li-dev&count_private=true&theme=react" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-li-dev&count_private=true&theme=react&layout=compact" width="40%" style="margin-left: 8px" /> 
+</p>
+
+<p align="top">
+    <img width="100" src="https://komarev.com/ghpvc/?username=dan-li-dev&style=flat-square&label=Visitor+Count" />
+</p>
+
 ## Experience
 
 ### Senior Technical Consultant (Front-End Angular) - Advvise Consulting GmbH  
