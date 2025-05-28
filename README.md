@@ -7,7 +7,7 @@ I'm a Senior Technical Consultant with a strong background in front-end developm
 
 ### Hi there! 👋 I'm Daniel Li
 
-[![LinkedIn Daniel Li](https://img.shields.io/badge/dan-li-linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/dan-li/)
+[![LinkedIn Daniel Li](https://img.shields.io/badge/danielliaus-linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/danielliaus/)
 [![Resume Daniel Li](https://img.shields.io/badge/resume-download-green?style=for-the-badge)](https://your-resume-link.com)
 [![dan-li-dev Portfolio](https://img.shields.io/badge/Portfolio-site-orange?style=for-the-badge)](https://dan-li-dev.github.io)
 
