@@ -1,17 +1,10 @@
-Hi 👋, I'm Daniel Li  
-A passionate full stack developer
-
-## About Me
-
-I'm a Senior Technical Consultant with a strong background in front-end development, specializing in JavaScript, AngularJS, and ServiceNow. I have a deep passion for building scalable, high-performance applications that enhance user experience. With expertise in front-end architecture, I have worked on projects that significantly improved efficiency and customer satisfaction. Beyond development, I enjoy mentoring junior developers and continuously expanding my knowledge in modern web technologies.
-
 ### Hi there! 👋 I'm Daniel Li
 
 [![LinkedIn Daniel Li](https://img.shields.io/badge/danielliaus-linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/danielliaus/)
 [![Resume Daniel Li](https://img.shields.io/badge/resume-download-green?style=for-the-badge)](https://your-resume-link.com)
 [![dan-li-dev Portfolio](https://img.shields.io/badge/Portfolio-site-orange?style=for-the-badge)](https://dan-li-dev.github.io)
 
-Welcome to my GitHub! I'm Daniel, a front-end engineer passionate about building modern web applications using **React**, **Redux**, **Angular**, and **TypeScript**. I'm currently expanding my skills in **AI/ML** and actively working on projects that bring together user experience, performance, and scalability.
+Welcome to my GitHub! I'm a Senior Technical Consultant with a strong background in front-end development, specializing in JavaScript, AngularJS, and ServiceNow. I have a deep passion for building scalable, high-performance applications that enhance user experience. With expertise in front-end architecture, I have worked on projects that significantly improved efficiency and customer satisfaction. Beyond development, I enjoy mentoring junior developers and continuously expanding my knowledge in modern web technologies.
 
 Having lived and worked internationally, I bring a flexible mindset and collaborative approach to development. I’m organized, curious, and always ready to learn something new.
 
